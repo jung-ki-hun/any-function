@@ -1,0 +1,22 @@
+{
+  "name": "any_function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung-ki-hun/any_function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jung-ki-hun/any_function/issues"
+  },
+  "homepage": "https://github.com/jung-ki-hun/any_function#readme"
+}
