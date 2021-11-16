@@ -12,6 +12,7 @@ $ npm install any-function
 
 ## demo
 - isEmpty()
+
 ```
 const any = require("any-function");
 any.isEmpty();
