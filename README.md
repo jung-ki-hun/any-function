@@ -9,6 +9,11 @@ $ npm install any-function
 
 ## path
 - 0.0.0 v1 file create
+- 0.1.0 v1 file edit(function add)
+- 0.1.1 bug fix
+- 0.1.2 bug fix
+- 0.1.3 isEmpty() -> You can also check the empty value of the object value.
+
 
 ## demo
 - isEmpty()
