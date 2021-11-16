@@ -12,27 +12,31 @@ $ npm install any-function
 
 ## demo
 - isEmpty()
-
+The corresponding function checks whether or not the value is stored.
 ```
 const any = require("any-function");
 any.isEmpty();
 ```
 - isNan()
+The corresponding function checks whether or not the int type value is stored.
 ```
 const any = require("any-function");
 any.isNan();
 ```
 - file_r()
+A function that reads files.
 ```
 const any = require("any-function");
 any.file_r(path,name);
 ```
 - file_w()
+It's a function that saves file.
 ```
 const any = require("any-function");
 any.file_w(path,name,data);
 ```
 - file_a()
+It's a function that update file.
 ```
 const any = require("any-function");
 any.file_a(path,name,data);
